@@ -104,20 +104,18 @@ Microsoft Visual Studio es un entorno de desarrollo integrado (IDE, por sus sigl
 ------------------------------------------------
 Paso 3. Búsqueda de Soluciones Creativas.
 ------------------------------------------------
-Lluvia de ideas: Para este paso, se decidió proponer soluciones propias utilizando como herramienta de trabajo grupal de lluvia de ideas para tener amplias opciones . Las soluciones que se plantearon fueron:
+Identificación o empatía: Para este caso se decidió llegar a la búsqueda de ideas creativas mediante la técnica de identificación o empatía que consiste en dar la vuelta a una situación y ponerse en la piel de otra persona. Tomando como idea principal ponerse en la situación de nuestro proveedor de información, cuando busca la opción de su manejo de datos de la mejor manera posible.
 
 Alternativa 1:
 Como se cuenta con una gran cantidad de información como la de los clientes, se podría realizar un análisis riguroso del comportamiento de ellos a lo largo del tiempo que llevan realizando compras o ventas con las empresa,  así pues se pasaría a una segunda instancia en donde de alguna u otra manera se pueda saber que preferencias tiene el cliente, identificando los productos que más frecuenta y el por qué del mismo, para así complementar los productos que no compra y lograr una venta más completa por cada cliente.
 
-Identificación o empatía: Para este caso se decidió llegar a la búsqueda de ideas creativas mediante la técnica de identificación o empatía que consiste en dar la vuelta a una situación y ponerse en la piel de otra persona. Tomando como idea principal ponerse en la situación de nuestro proveedor de información, cuando busca la opción de su manejo de datos de la mejor manera posible.
-
-Alternativa 1: 
+Alternativa 2: 
 Basado en el sistema de manejo de información Hadoop se tomó en cuenta como una gran alternativa en la minería de datos, siendo este programa capaz de manejar grandes volúmenes de datos de manera simultánea en varios ordenadores, dando esto la posibilidad de tener informes necesarios de la manera más eficiente posible. Esto ayudaría en la utilización de los datos para informes de posibles ventas futuras lo más rápido posible al igual que consultas. Esta idea se pensó dando como prioridad, el tiempo de una consulta y el paralelismo de trabajo en cualquier momento.
 
-Alternativa 2: 
+Alternativa 3: 
 Pensando en la comodidad de un cliente al manejar diferentes flujos de datos de pedidos de diferentes partes. Es de gran importancias que dicho flujo se dé a conocer en tiempo real por un programa de usuario Master que le permita conocer en cualquier momento el manejo de su empresa en cuanto a reportes y reconocimiento por día. Para cualquiera una opción de efectividad y  de comodidad en cuanto accesibilidad de información estaría en ventaja versus otro que no.
 
-Alternativa 3: 
+Alternativa 4: 
 La accesibilidad web, podría unificar toda esta información y procesarla para obtener resultados, como por ejemplo, conocer cuales son sus clientes potenciales o qué clientes repiten su experiencia realizando otros pedidos, esto con el objetivo de tener un mejor manejo de datos mediante un programa con accesibilidad web.
 
 
