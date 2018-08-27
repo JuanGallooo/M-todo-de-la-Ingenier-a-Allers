@@ -14,6 +14,53 @@ Se necesita poder predecir acciones posteriores, prinicipalmente dirigido a vent
 Descripción del problema:
 Una importante empresa como Allers requiere la estructuración de una solución que no solo le permita el beneficio de manejo de gran cantidad de datos y predicción de ventas en base a estos, sino también que estos sistematicen el manejo y flujo de información dentro de la empresa para que perduren los beneficios.
 
+El sistema tiene los siguientes requerimientos:
+
+Nombre: R1- Gestionar información de la empresa
+Resumen: El requerimiento implica la utilización de información de clientes, proveedores, productos y demás información almacenada de las diferentes actividades que realiza la empresa para poder visualizarla tramitarla.  
+Entradas: (Base de datos) Con la información de los diferentes proveedores, clientes, productos y demás datos que brinda la empresa.
+Salidas:
+
+Nombre: R2- Generar reportes de ventas
+Resumen: El programa estará en la capacidad generar reportes de las transacciones, para realizar estadísticas de las ventas en el transcurso del tiempo. 
+Entradas: (String) Nombre de cliente, (String) Código del cliente, (String) Código del producto 
+Salidas: Un reporte con la información acertada con respecto a las ventas del determinado cliente o producto, utilizando gráficas y texto que permitan la mejor comprensión para el usuario.
+
+Nombre: R3- Generar reportes de compras
+Resumen: El programa estará en la capacidad generar reportes de las compras, para realizar estadísticas de las compras realizadas a los proveedores en el transcurso del tiempo.
+Entradas: (String) Nombre del proveedor , (String) Código del proveedor, (String) Código del producto 
+Salidas: Un reporte con la información acertada con respecto a las compras del determinado producto o proveedor, utilizando gráficas y texto que permitan la mejor comprensión para el usuario.
+
+Nombre: R4- Generar reportes de productos
+Resumen: El programa estará en la capacidad generar reportes de los productos, para realizar el seguimiento y control  de los productos que tiene la empresa. 
+Entradas: (String) Nombre del producto, (String) Código del producto, (String) Precio del producto. 
+Salidas: Un reporte con la información acertada con respecto a los productos utilizando gráficas y texto que permitan la mejor comprensión para el usuario.
+
+Nombre: R5- Generar reporte con predicción de datos de ventas
+Resumen: El programa estará en la capacidad generar reportes donde se predicen las posibles ventas de determinado producto o la posible compra de determinado cliente.
+Entradas:(String) Nombre del producto , (String) Código del producto, (String) Precio del producto. 
+Salidas: Un reporte con la información acertada con respecto a las posibles ventas de un cliente o producto utilizando gráficas y texto que permitan la mejor comprensión para el usuario.
+
+Nombre: R6- Generar reporte con predicción de datos de compras
+Resumen: El programa estará en la capacidad generar reportes donde se predicen las posibles compras de determinado producto o la posible compra ha determinado proveedor
+Entradas: (String) Nombre del proveedor, (String) Código del proveedor, (String) Código del producto.
+Salidas: Un reporte con la información acertada con respecto a las posibles compras ha un proveedor  o de determinado producto utilizando gráficas y texto que permitan la mejor comprensión para el usuario.
+
+Nombre: R7- Adicionar factor de empresa
+Resumen: El programa estará en la capacidad adicionar un factor de empresa, tal como un nuevo producto,  cliente o un nuevo  proveedor.
+Entradas: (String) Nombre del producto, (String) Nombre del cliente, (String)Nombre del proveedor, (String) Código del producto, (String) Código del cliente, (String) Código del proveedor, (String) Precio del producto. 
+Salidas: Programa actualizado con la información adicional.
+
+Nombre: R8- Eliminar factor de empresa
+Resumen: El programa estará en la capacidad adicionar un factor de empresa así sea producto,  cliente o  proveedor.
+Entradas: (String) Código del producto, (String) Código del cliente, (String) Código del proveedor
+Salidas: Programa actualizado con la información eliminada.
+
+Nombre: R9- Actualizar la información
+Resumen: El programa estará en la capacidad actualizar un factor de empresa así sea producto,  cliente o  proveedor
+Entradas: (String) Nombre del producto, (String) Nombre del cliente, (String)Nombre del proveedor, (String) Código del producto, (String) Código del cliente, (String) Código del proveedor, (String) Precio del producto
+Salidas: Programa con la información actualizada.
+
 Paso 2. Recopilación de información
    Con el propósito de tener claros todas las definiciones involucradas se hace una búsqueda de los términos relacionados con el problema planteado. Esta búsqueda se realiza en fuentes reconocidas y confiables para reconocer que conceptos hacen parte del problema y no.
  Fuentes:
