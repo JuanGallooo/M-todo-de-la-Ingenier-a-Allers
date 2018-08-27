@@ -1,6 +1,16 @@
 # Metodo-de-la-Ingenieria-Allers
 Metodo de la Ingeneria
+------------------------------------------------
+Integrantes:
+------------------------------------------------
+David Erazo
+Daniela Llano
+Manuel Alejandro Quintero
+Juan Esteban Gallo
+
+------------------------------------------------
 Paso 1. Identificación del problema
+------------------------------------------------
 
 Se identifican de manera adecuada las necesidades que se presentan en el problema propuesto así como sus síntomas y condiciones por los que debe ser resuelto.
 Identificación de sus síntomas y necesidades:
@@ -61,7 +71,9 @@ Resumen: El programa estará en la capacidad actualizar un factor de empresa as�
 Entradas: (String) Nombre del producto, (String) Nombre del cliente, (String)Nombre del proveedor, (String) Código del producto, (String) Código del cliente, (String) Código del proveedor, (String) Precio del producto
 Salidas: Programa con la información actualizada.
 
+------------------------------------------------
 Paso 2. Recopilación de información
+------------------------------------------------
    Con el propósito de tener claros todas las definiciones involucradas se hace una búsqueda de los términos relacionados con el problema planteado. Esta búsqueda se realiza en fuentes reconocidas y confiables para reconocer que conceptos hacen parte del problema y no.
  Fuentes:
 https://es.wikipedia.org
@@ -89,7 +101,24 @@ C# (pronunciado si sharp en inglés) es un lenguaje de programación orientado a
  Visual Studio
 Microsoft Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en inglés) para sistemas operativos Windows. Soporta múltiples lenguajes de programación, tales como C++, C#, Visual Basic .NET, F#, Java, Python, Ruby y PHP, al igual que entornos de desarrollo web, como ASP.NET MVC, Django, etc., a lo cual hay que sumarle las nuevas capacidades online bajo Windows Azure en forma del editor Monaco.
 
-  
+------------------------------------------------
+Paso 3. Búsqueda de Soluciones Creativas.
+------------------------------------------------
+Lluvia de ideas: Para este paso, se decidió proponer soluciones propias utilizando como herramienta de trabajo grupal de lluvia de ideas para tener amplias opciones . Las soluciones que se plantearon fueron:
+
+Alternativa 1:
+Como se cuenta con una gran cantidad de información como la de los clientes, se podría realizar un análisis riguroso del comportamiento de ellos a lo largo del tiempo que llevan realizando compras o ventas con las empresa,  así pues se pasaría a una segunda instancia en donde de alguna u otra manera se pueda saber que preferencias tiene el cliente, identificando los productos que más frecuenta y el por qué del mismo, para así complementar los productos que no compra y lograr una venta más completa por cada cliente.
+
+Identificación o empatía: Para este caso se decidió llegar a la búsqueda de ideas creativas mediante la técnica de identificación o empatía que consiste en dar la vuelta a una situación y ponerse en la piel de otra persona. Tomando como idea principal ponerse en la situación de nuestro proveedor de información, cuando busca la opción de su manejo de datos de la mejor manera posible.
+
+Alternativa 1: 
+Basado en el sistema de manejo de información Hadoop se tomó en cuenta como una gran alternativa en la minería de datos, siendo este programa capaz de manejar grandes volúmenes de datos de manera simultánea en varios ordenadores, dando esto la posibilidad de tener informes necesarios de la manera más eficiente posible. Esto ayudaría en la utilización de los datos para informes de posibles ventas futuras lo más rápido posible al igual que consultas. Esta idea se pensó dando como prioridad, el tiempo de una consulta y el paralelismo de trabajo en cualquier momento.
+
+Alternativa 2: 
+Pensando en la comodidad de un cliente al manejar diferentes flujos de datos de pedidos de diferentes partes. Es de gran importancias que dicho flujo se dé a conocer en tiempo real por un programa de usuario Master que le permita conocer en cualquier momento el manejo de su empresa en cuanto a reportes y reconocimiento por día. Para cualquiera una opción de efectividad y  de comodidad en cuanto accesibilidad de información estaría en ventaja versus otro que no.
+
+Alternativa 3: 
+La accesibilidad web, podría unificar toda esta información y procesarla para obtener resultados, como por ejemplo, conocer cuales son sus clientes potenciales o qué clientes repiten su experiencia realizando otros pedidos, esto con el objetivo de tener un mejor manejo de datos mediante un programa con accesibilidad web.
 
 
 
