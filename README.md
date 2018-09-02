@@ -2,9 +2,9 @@
 ------------------------------------------------
 Integrantes:
 ------------------------------------------------
-David Erazo
-Daniela Llano
-Manuel Alejandro Quintero
-Juan Esteban Gallo
+David Erazo </br>
+Daniela Llano</br>
+Manuel Alejandro Quintero</br>
+Juan Esteban Gallo</br>
 
 ------------------------------------------------
